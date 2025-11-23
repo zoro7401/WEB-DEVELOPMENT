@@ -1,0 +1,17 @@
+bod{
+    background-color: rgb(12, 209, 209);
+    color: rgb(18, 18, 225);
+}
+p{
+    background-color: black ;
+}
+
+.red{
+    background-color: chartreuse;
+}
+.bg-yellow{
+    color: rgb(7, 7, 255);
+}
+#second{
+    background-color: brown;
+}
